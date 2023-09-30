@@ -1,5 +1,5 @@
 if (process.argv.length != 3) {
-    console.error('No argument provided');
+    console.error('Veuillez passer un argument');
     process.exit(1);
 }
 
